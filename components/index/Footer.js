@@ -27,7 +27,7 @@ function Footer() {
         <a href="/pdf/최종현이력서.pdf" download="최종현이력서">
           <Footerh1>이력서다운로드 </Footerh1>
         </a>
-        <Link href="/pdf/최종현이력서.pdf" download="최종현이력서">
+        <Link href="/pdf/최종현이력서.pdf">
           <Footerh1>이력서 보기</Footerh1>
         </Link>
       </FooterSectionWrap>
