@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
   host: "localhost",
   user: "root", //mysql의 id
   password: "1234", //mysql의 password
-  database: "portfolio", //사용할 데이터베이스
+  database: "portfolio", //사용할 데이터베이스sss
 });
 
 connection.connect();
